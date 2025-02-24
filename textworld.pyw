@@ -159,9 +159,6 @@ class MainWindow(QMainWindow):
         QMessageBox.about(self, "关于软件", 
                       "软件名称：文本世界\n"
                       "版本：0.1.0 beta\n"
-                      "作者：Mr. 树叶\n"
-                      "公众号：树叶世界\n"
-                      "版权所有：© 2025 树叶世界\n"
                       "感谢您的使用！")
 
 
