@@ -4,7 +4,7 @@
 
 ### 2.使用方法
 如果你的电脑已经安装过Python,PyQt5，请跳过。
-首先，请安装Python环境[Python下载](python.org)和PyQt库（安装Python后打开cmd(windows)或终端(macos,linux)，输入`pip install pyqt5`，等待一会，即可完成。
+首先，请安装Python环境[Python下载](http://python.org)和PyQt库（安装Python后打开cmd(windows)或终端(macos,linux)，输入`pip install pyqt5`，等待一会，即可完成。
 
 ### 3.联系方式
 Email:
